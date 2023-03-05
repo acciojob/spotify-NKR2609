@@ -37,3 +37,4 @@ public class Song {
     public void setLikes(int likes) {
         this.likes = likes;
     }
+}
